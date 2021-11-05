@@ -2,8 +2,17 @@ body{
     background-color: #7CB4B2;
 }
 
-h1, h3, p{
+h1{
     color:rgb(17, 17, 17);
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Patrick Hand SC', cursive;
+    style: bold;
+    font-size: 50px;
 }
 
+p{
+    color:rgb(17, 17, 17);
+    font-family: 'Indie Flower', cursive;
+    style: bold;
+    font-size: 25px;
+    margin: centre;
+}
