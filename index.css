@@ -18,3 +18,10 @@ p{
     font-size: 25px;
     margin: centre;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
